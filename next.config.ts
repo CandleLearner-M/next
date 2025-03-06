@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // Remove all configuration options that conflict with Turbopack
 };
 
 export default nextConfig;
